@@ -37,4 +37,11 @@ Alt attributs have been added to describe the images within the code.
 The heading attributes fall in a sequential order, clarifying the hierarchy of the content on the page. The headings which follow the H1 element take the largest size and portray the highest importance. The headings which follow the H3 element remain larger than the normal text, but show less importance than the H1 element, as the size is slightly smaller.
 
 The title element has been updated to portray a clear and descriptive title for the code.
+
+Classes were created to simplify the code and eliminate unnecessary repetition.
+```
+
+## URL
+https://hayesejasmine.github.io/Accessibility-Refactor-Challenge/
+
 ```
